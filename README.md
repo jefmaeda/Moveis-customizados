@@ -1,7 +1,7 @@
 
 
 </br>
-<h1 align="center"> Treine.me - HTML&CSS</h1>
+<h1 align="center"> Moveis customizados - HTML&CSS</h1>
 </br>
 <p align="center">
 
